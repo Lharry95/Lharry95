@@ -1,8 +1,16 @@
-##### Lharry95/READEME.md 
+##### Lharry95/READEME.md <br/>
 
-## Hey! 
 
-I'm Lharyzza Va'ai 👋
+
+
+<div align="center">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWrGuehWxAL1jCG9_oUDmUvwa-da7_0z1ilQ&s" alt="quote" width="500" height="500" />
+</div>
+
+
+
+
+<h1 align="center">Hey! I'm Lharyzza Va'ai 👋</h1>
 
 I'm a full stack developer learning to build cool things with code. 🚀
 
@@ -12,10 +20,12 @@ I'm currently diving deep into JavaScript, React, and Node.js. Building projects
 
 Some of the things I've been working on:
 
-- Full-stack web applications using React, Node.js, Express, and MongoDB
-- AI-powered projects (mock interviewers, image recognition with Azure)
-- Test-Driven Development because bugs aren't fun
-- Frontend stuff with HTML, CSS, and interactive JavaScript
+
+- Full-stack web applications using React, Node.js, Express, and MongoDB <br/>
+- AI-powered projects (mock interviewers, image recognition with Azure) <br/>
+- Test-Driven Development because bugs aren't fun <br/>
+- Frontend stuff with HTML, CSS, and interactive JavaScript <br/>
+
 
 You can find me here:
 
@@ -40,3 +50,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: www.linkedin.com/in/lharyzza-va-ai-499447147
