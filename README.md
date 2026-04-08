@@ -5,8 +5,8 @@
 
 <div align="center">
 <!-- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWrGuehWxAL1jCG9_oUDmUvwa-da7_0z1ilQ&s" alt="quote" width="350" height="400" /> -->
-<img src="https://w0.peakpx.com/wallpaper/213/95/HD-wallpaper-deku-quote-mha-power.jpg" alt="quote" width="300" height="400" />
-<img src="https://i.pinimg.com/236x/59/16/ca/5916ca93b0b2b28aa1064f8a38947feb.jpg" alt="quote" width="300" height="500" />
+<img src="https://w0.peakpx.com/wallpaper/213/95/HD-wallpaper-deku-quote-mha-power.jpg" alt="quote" width="400" height="400" />
+<img src="https://i.pinimg.com/236x/59/16/ca/5916ca93b0b2b28aa1064f8a38947feb.jpg" alt="quote" width="400" height="400" />
 </div>
 
 
